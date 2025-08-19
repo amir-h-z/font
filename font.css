@@ -1,0 +1,100 @@
+/* --- IRANSansXFaNum Font Definition --- */
+
+/* UltraLight (Weight: 200) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 200; /* UltraLight */
+  src: url('IRANSansXFaNum-UltraLight.woff2') format('woff2'),
+  url('IRANSansXFaNum-UltraLight.woff') format('woff'),
+  url('IRANSansXFaNum-UltraLight.otf') format('opentype'),
+  url('IRANSansXFaNum-UltraLight.ttf') format('truetype');
+}
+
+/* Thin (Weight: 100) - Note: CSS often treats Thin as 100, but some map it differently. I'm placing it after UltraLight based on typical visual weight. Adjust if needed. */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 100; /* Thin */
+  src: url('IRANSansXFaNum-Thin.woff2') format('woff2'),
+  url('IRANSansXFaNum-Thin.woff') format('woff'),
+  url('IRANSansXFaNum-Thin.otf') format('opentype'),
+  url('IRANSansXFaNum-Thin.ttf') format('truetype');
+}
+
+/* Light (Weight: 300) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 300; /* Light */
+  src: url('IRANSansXFaNum-Light.woff2') format('woff2'),
+  url('IRANSansXFaNum-Light.woff') format('woff'),
+  url('IRANSansXFaNum-Light.otf') format('opentype'),
+  url('IRANSansXFaNum-Light.ttf') format('truetype');
+}
+
+/* Regular (Weight: 400) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 400; /* Regular */
+  src: url('IRANSansXFaNum-Regular.woff2') format('woff2'),
+  url('IRANSansXFaNum-Regular.woff') format('woff'),
+  url('IRANSansXFaNum-Regular.otf') format('opentype'),
+  url('IRANSansXFaNum-Regular.ttf') format('truetype');
+}
+
+/* Medium (Weight: 500) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 500; /* Medium */
+  src: url('IRANSansXFaNum-Medium.woff2') format('woff2'),
+  url('IRANSansXFaNum-Medium.woff') format('woff'),
+  url('IRANSansXFaNum-Medium.otf') format('opentype'),
+  url('IRANSansXFaNum-Medium.ttf') format('truetype');
+}
+
+/* DemiBold (Weight: 600) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 600; /* DemiBold or SemiBold */
+  src: url('IRANSansXFaNum-DemiBold.woff2') format('woff2'),
+  url('IRANSansXFaNum-DemiBold.woff') format('woff'),
+  url('IRANSansXFaNum-DemiBold.otf') format('opentype'),
+  url('IRANSansXFaNum-DemiBold.ttf') format('truetype');
+}
+
+/* Bold (Weight: 700) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 700; /* Bold */
+  src: url('IRANSansXFaNum-Bold.woff2') format('woff2'),
+  url('IRANSansXFaNum-Bold.woff') format('woff'),
+  url('IRANSansXFaNum-Bold.otf') format('opentype'),
+  url('IRANSansXFaNum-Bold.ttf') format('truetype');
+}
+
+/* ExtraBold (Weight: 800) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 800; /* ExtraBold */
+  src: url('IRANSansXFaNum-ExtraBold.woff2') format('woff2'),
+  url('IRANSansXFaNum-ExtraBold.woff') format('woff'),
+  url('IRANSansXFaNum-ExtraBold.otf') format('opentype'),
+  url('IRANSansXFaNum-ExtraBold.ttf') format('truetype');
+}
+
+/* Black (Weight: 900) */
+@font-face {
+  font-family: 'IRANSansXFaNum';
+  font-style: normal;
+  font-weight: 900; /* Black */
+  src: url('IRANSansXFaNum-Black.woff2') format('woff2'),
+  url('IRANSansXFaNum-Black.woff') format('woff'),
+  url('IRANSansXFaNum-Black.otf') format('opentype'),
+  url('IRANSansXFaNum-Black.ttf') format('truetype');
+}
